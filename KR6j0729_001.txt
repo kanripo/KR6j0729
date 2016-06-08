@@ -1,18 +1,17 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:38:43.503654
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 13:23
 #+TITLE: 請觀音經疏
 #+PROPERTY: CBETA_ID T39n1800
 #+PROPERTY: ID KR6j0729
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 39, No. 1800
 #+PROPERTY: VOL 39
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6j0729_T_001-0968a> 
 #+PROPERTY: JUAN 1
 ¶
-No.1800[cf.Nos.1043,1801]¶
-
- 請觀音經疏¶
+No. 1800 [cf. Nos. 1043, 1801]¶
+請觀音經疏¶
 ¶
 隋天台智者大師說¶
 弟子頂法師記¶
@@ -366,7 +365,7 @@ No.1800[cf.Nos.1043,1801]¶
 此解。但此土西土同是應佛。淨穢相形故有¶
 優劣。若作真語不復得移動。辨其優劣。若彼¶
 是真佛土應極淨。此則不可。若作本迹語。此¶
-為迹彼為本。本迹相傳。望此語則寬。雖然今¶
+為迹彼為本。本迹相傅。望此語則寬。雖然今¶
 亦不用。那知釋迦是迹無量是本。二佛各有¶
 本迹。那互為本迹。此又不可。今明此土為穢¶
 彼即為淨。今穢國眾生見思毒害。欲借淨土
